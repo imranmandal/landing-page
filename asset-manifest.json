@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/landing-page/static/css/main.8b695e65.chunk.css",
+    "main.js": "/landing-page/static/js/main.d138b049.chunk.js",
+    "main.js.map": "/landing-page/static/js/main.d138b049.chunk.js.map",
+    "runtime-main.js": "/landing-page/static/js/runtime-main.67a7f7b0.js",
+    "runtime-main.js.map": "/landing-page/static/js/runtime-main.67a7f7b0.js.map",
+    "static/js/2.236b1346.chunk.js": "/landing-page/static/js/2.236b1346.chunk.js",
+    "static/js/2.236b1346.chunk.js.map": "/landing-page/static/js/2.236b1346.chunk.js.map",
+    "index.html": "/landing-page/index.html",
+    "static/css/main.8b695e65.chunk.css.map": "/landing-page/static/css/main.8b695e65.chunk.css.map",
+    "static/js/2.236b1346.chunk.js.LICENSE.txt": "/landing-page/static/js/2.236b1346.chunk.js.LICENSE.txt",
+    "static/media/phone1.922fe105.png": "/landing-page/static/media/phone1.922fe105.png",
+    "static/media/phone2.a480a61d.png": "/landing-page/static/media/phone2.a480a61d.png",
+    "static/media/index.css": "/landing-page/static/media/wouldbee.ae19f202.gif",
+    "static/media/wouldbee1.1cb3f24b.png": "/landing-page/static/media/wouldbee1.1cb3f24b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67a7f7b0.js",
+    "static/js/2.236b1346.chunk.js",
+    "static/css/main.8b695e65.chunk.css",
+    "static/js/main.d138b049.chunk.js"
+  ]
+}
